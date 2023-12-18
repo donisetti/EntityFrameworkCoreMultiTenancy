@@ -1,6 +1,6 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFrameworkCoreMultiTenancy", "EntityFrameworkCoreMultiTenancy.csproj", "{A443657D-B754-45EC-B03C-B76F2CF1DE66}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EntityFrameworkCoreMultiTenancy", "EntityFrameworkCoreMultiTenancy.csproj", "{A443657D-B754-45EC-B03C-B76F2CF1DE66}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
